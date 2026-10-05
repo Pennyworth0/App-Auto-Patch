@@ -147,7 +147,7 @@ echo "
     <key>DialogTimeoutConfirmInstall</key> <integer>seconds</integer>
     <key>DialogQuitHandlingDiscoveryStaging</key> <string>PROMPT,CONTINUE,STOP</string> (Stop is ignored when a hard deadline is due or Install Now is running)
     <key>IgnoreAppsInHomeFolder</key> <string>TRUE,FALSE</string>
-    <key>IgnoredLabels</key> <string>label label label etc</string>
+    <key>IgnoredLabels</key> <string>Google Chrome, Royal TSX, 1Password</string>
     <key>ExcludedBackgroundLabels</key> <string>label label label etc</string>
     <key>InstallomatorOptions</key> <string>OPTION=option OPTION=option etc</string>
     <key>InstallomatorUpdateDisable</key> <string>TRUE,FALSE</string>
