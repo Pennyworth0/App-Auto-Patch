@@ -206,7 +206,7 @@ echo "
     <key>DiscoveryFrequency</key> <integer>hours</integer>
     <key>WorkflowInstallNowPatchingStatusAction</key> <string>NEVER | ALWAYS | SUCCESS</string>
     <key>ZoomCallActiveCheck</key> <true/> | <false/>
-    <key>IgnoreDNDApps</key> <string>App1,App2,App3</string>
+    <key>IgnoreDNDApps</key> <string>royaltsx,logioptionsplus,googlechrome,1password8,1password7</string>
 
     ** Detailed documentation can be found at: https://github.com/App-Auto-Patch/App-Auto-Patch/wiki
 "
