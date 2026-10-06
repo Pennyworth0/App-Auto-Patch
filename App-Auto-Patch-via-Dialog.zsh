@@ -147,7 +147,7 @@ echo "
     <key>DialogTimeoutConfirmInstall</key> <integer>seconds</integer>
     <key>DialogQuitHandlingDiscoveryStaging</key> <string>PROMPT,CONTINUE,STOP</string> (Stop is ignored when a hard deadline is due or Install Now is running)
     <key>IgnoreAppsInHomeFolder</key> <string>TRUE,FALSE</string>
-    <key>IgnoredLabels</key> <string>Google Chrome, Royal TSX, 1Password</string>
+    <key>IgnoredLabels</key> <string>1password8 1password7 royaltsx logioptionsplus googlechrome googlechromepkg</string>
     <key>ExcludedBackgroundLabels</key> <string>label label label etc</string>
     <key>InstallomatorOptions</key> <string>OPTION=option OPTION=option etc</string>
     <key>InstallomatorUpdateDisable</key> <string>TRUE,FALSE</string>
@@ -161,7 +161,7 @@ echo "
     <key>PrePatchScriptFailAction</key> <string>ABORT,CONTINUE</string>
     <key>PostPatchScriptFailAction</key> <string>ABORT,CONTINUE</string>
     <key>PatchScriptTimeoutSeconds</key> <integer>seconds</integer>
-    <key>InteractiveMode</key> <integer>number</integer>
+    <key>InteractiveMode</key> <integer>1</integer>
     <key>MonthlyPatchingCadenceEnabled</key> <true/> | <false/>
     <key>MonthlyPatchingCadenceOrdinalValue</key> <string>second</string>
     <key>MonthlyPatchingCadenceWeekdayIndex</key> <string>tuesday</string>
